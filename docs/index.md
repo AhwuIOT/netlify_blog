@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0;url=https://ahwuiot.github.io/AI%20Training%20Class/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20%26%20%E5%AD%B8%E7%BF%92%E5%B7%A5%E5%85%B7/%7B%7BAhwu%20%E2%80%98s%7D%7D%20AI%20Training%20Class/">
+<meta http-equiv="refresh" content="0;url=https://ahwuiot.netlify.app/ai%20training%20class/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1%20&%20%E5%AD%B8%E7%BF%92%E5%B7%A5%E5%85%B7/%7B%7Bahwu%20%E2%80%98s%7D%7D%20ai%20training%20class/">
