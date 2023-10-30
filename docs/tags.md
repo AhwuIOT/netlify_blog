@@ -1,5 +1,6 @@
 ## Reference
 ### Python
+- [Real Python Tutorials](https://realpython.com/)
 - [W3School-Python](https://www.w3schools.com/python/default.asp)
 - [Python官方教學文件](https://docs.python.org/zh-tw/3/tutorial/index.html)
 - [OPENHOME.CC-Python](https://openhome.cc/zh-tw/python/)
