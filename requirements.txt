@@ -14,3 +14,5 @@ mkdocs-meta-descriptions-plugin==2.3.0
 mkdocs-glightbox==0.3.4
 mkdocs-minify-plugin==0.7.1
 mkdocs-exclude==1.0.2
+obsidiantools==0.10.0
+pyvis==0.3.1
