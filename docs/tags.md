@@ -41,6 +41,7 @@
 - [適合初學者的 12 個基本 Linux 指令](https://blog.ossii.com.tw/?p=2241)
 - [CLI是什麼?](https://aws.amazon.com/tw/what-is/cli/)
 - [鳥哥的首頁](https://linux.vbird.org/)
-
+- [「程式筆記」Shell Script 簡易筆記](https://medium.com/@yihengwu/%E7%A8%8B%E5%BC%8F%E7%AD%86%E8%A8%98-shell-script-%E7%B0%A1%E6%98%93%E7%AD%86%E8%A8%98-841cfc3ae3ab)
+- [Shell Script - 基礎](https://hank7891.github.io/2021/07/22/Shell%20Script-%E5%9F%BA%E7%A4%8E/)
 ### 轉職&學習程式碼相關心得
 - [【心得】資策會大數據班轉職失敗心得-更新 v1.0.3- 7/17](https://forum.gamer.com.tw/C.php?page=1&bsn=60561&snA=21109)
