@@ -38,6 +38,7 @@ print("|{:<5s} {:<5s}|".format(c, d))
 ### Mermaid 流程圖
 
 ```mermaid
+
 graph TD
     A[開始] --> B[輸入a]
     B --> C[輸入b]
@@ -48,6 +49,7 @@ graph TD
     G --> H[打印a和b（向左對齊）]
     H --> I[打印c和d（向左對齊）]
     I --> J[結束]
+    
 ```
 
 

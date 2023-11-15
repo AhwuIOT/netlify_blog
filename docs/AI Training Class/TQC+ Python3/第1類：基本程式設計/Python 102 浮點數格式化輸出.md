@@ -39,6 +39,7 @@ print("|{:<7.2f} {:<7.2f} |".format(c, d))
 ### Mermaid 流程圖
 
 ```mermaid
+
 graph TD
     A[開始] --> B[輸入 a]
     B --> C[輸入 b]
