@@ -26,13 +26,13 @@
 #### Solution
 ```python linenums="1"
 a = eval(input())
-if(a > 38000):
+if(a >= 38000):
 	print("{}".format(a*0.7))
-elif((a > 28000) & (a < 38000)):
+elif((a >= 28000) & (a < 38000)):
 	print("{}".format(a*0.8))
-elif((a > 18000) & (a < 28000)):
+elif((a >= 18000) & (a < 28000)):
 	print("{}".format(a*0.9))
-elif(a > 8000):
+elif(a >= 8000):
 	print("{}".format(a*0.95))
 else:
 	print("{}".format(a))
