@@ -54,7 +54,9 @@ for i in range(2):
 > [!attention]
 > 如果不用三維陣列那就需要寫比較多程式碼
 
-這段 Python 程式碼主要進行了三維列表的創建、數據輸入、數據顯示和矩陣求和的操作。以下是對應的 Mermaid 流程圖語法：
+
+
+### Mermaid 流程圖
 
 ```mermaid
 graph TD
