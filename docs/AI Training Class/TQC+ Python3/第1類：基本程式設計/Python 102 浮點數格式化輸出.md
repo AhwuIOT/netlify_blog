@@ -36,20 +36,7 @@ print("|{:<7.2f} {:<7.2f} |".format(a, b))
 print("|{:<7.2f} {:<7.2f} |".format(c, d))
 ```
 
-### Mermaid 流程圖
 
-```mermaid
-graph TD
-A[開始] --> B[輸入 a]
-B --> C[輸入 b]
-C --> D[輸入 c]
-D --> E[輸入 d]
-E --> F[格式化輸出 a 和 b 向右對齊，保留兩位小數]
-F --> G[格式化輸出 c 和 d 向右對齊，保留兩位小數]
-G --> H[格式化輸出 a 和 b 向左對齊，保留兩位小數]
-H --> I[格式化輸出 c 和 d 向左對齊，保留兩位小數]
-I --> J[結束]
-```
 
 - Reference
 	- [TQC+ 程式語言Python 102 浮點數格式化輸出](https://jbprogramnotes.com/2020/05/tqc-%e7%a8%8b%e5%bc%8f%e8%aa%9e%e8%a8%80python-102-%e6%b5%ae%e9%bb%9e%e6%95%b8%e6%a0%bc%e5%bc%8f%e5%8c%96%e8%bc%b8%e5%87%ba/)
