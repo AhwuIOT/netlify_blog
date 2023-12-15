@@ -14,6 +14,7 @@
 3. InheritedWidget在使用上有缺陷
 4. InheritedWiget結合StatefulWidget與ChangeNotifier結合後成為Provider
 5. Provider使用方式分為
-   1. Consumer
-   2. Provider.of(context)
+
+> 1. Consumer
+> 2. Provider.of(context)
 
