@@ -13,6 +13,7 @@
 - [Tutorialspoint-Dart Programming Tutorial](https://www.tutorialspoint.com/dart_programming/)
 ### Flutter
 - [Learn Roadmap](https://roadmap.sh/flutter)
+- [教你快速為 Flutter 設置 Flavor、App Icon 和 Launcher splash — Part 1: flutter_flavorizr](https://medium.com/flutter-formosa/%E6%95%99%E4%BD%A0%E5%BF%AB%E9%80%9F%E7%82%BA-flutter-%E8%A8%AD%E7%BD%AE-flavor-app-icon-%E5%92%8C-launcher-splash-part-1-flutter-flavorizr-ffdd617c35ca)
 - [万字干货！写给小白的Figma全面入门手册 - 优设网 - 学设计上优设 (uisdc.com)](https://www.uisdc.com/figma-getting-started-manual)
 - [Figma 学习路径 - 基础介绍,中文教程 - Figma 中文社区](https://www.figma.cool/learning-paths)
 - [Figma - 新手入門指南，從零開始快速掌握設計工具 (tpisoftware.com)](https://www.tpisoftware.com/tpu/articleDetails/2929)
